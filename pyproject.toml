@@ -1,0 +1,8 @@
+[project]
+name = "markitdown-sample"
+version = "0.1.0"
+description = "Sample project using markitdown"
+requires-python = ">=3.13"
+dependencies = [
+    "markitdown[pdf]>=0.1.1",
+]
